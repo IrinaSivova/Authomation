@@ -1,0 +1,30 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at : 2016-06-12 20:23:10
+TruClient Replay for LoadRunner 12.53.0, build 1203. OS: Windows 8.1, Browser: Firefox, initialized on 2016/06/12 at 20:23:08 (0000,000s)
+
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "Open url" started.
+t=00003918ms: ** 2: Navigate to "www.rozetka.ua/" ** started    [MsgId: MMSG-205180]
+t=00011201ms: ** 2: Navigate to www.rozetka.ua/ ** successfully completed with end event 'Document Loaded'    [MsgId: MMSG-205180]
+Notify: Transaction "Open url" ended with a "Pass" status (Duration: 7,3250).
+t=00011231ms: ** 3: Wait 3 seconds ** started    [MsgId: MMSG-205180]
+t=00014522ms: ** 3: Wait 3 seconds ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+Notify: Transaction "Find the product" started.
+t=00015063ms: ** 4: Click on Город Выберите город... textbox ** started    [MsgId: MMSG-205180]
+t=00017080ms: ** 4: Click on Город Выберите город... textbox ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]
+t=00017665ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** started    [MsgId: MMSG-205180]
+t=00022465ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00022996ms: ** 6: Click on Найти button ** started    [MsgId: MMSG-205180]
+t=00028083ms: ** 6: Click on Найти button ** successfully completed with end event 'Document Loaded'    [MsgId: MMSG-205180]
+Notify: Transaction "Find the product" ended with a "Pass" status (Duration: 13,0700 Wasted Time: 1,5210).
+t=00028144ms: ** 7: Wait 3 seconds ** started    [MsgId: MMSG-205180]
+t=00031384ms: ** 7: Wait 3 seconds ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+Notify: Transaction "Add to th cart" started.
+t=00031912ms: ** 8: Click on Купить button ** started    [MsgId: MMSG-205180]
+t=00033534ms: ** 8: Click on Купить button ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]
+Notify: Transaction "Add to th cart" ended with a "Pass" status (Duration: 1,6610 Wasted Time: 0,0600).
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.

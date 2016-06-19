@@ -1,0 +1,18 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npFoxitReaderPlugin.dll|$
+C:\Program Files (x86)\Foxit Reader\plugins\npFoxitReaderPlugin.dll|$
+2.2.3.703|$
+1372853128000|0|0|0|$
+Foxit Reader Plug-In For Firefox and Netscape|$
+Foxit Reader Plugin for Mozilla|$
+2
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.fdf|||$
+
+[INVALID]

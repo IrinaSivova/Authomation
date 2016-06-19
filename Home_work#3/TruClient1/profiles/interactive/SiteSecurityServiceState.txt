@@ -1,0 +1,6 @@
+glitter-services.disqus.com:HSTS	0	16964	1465754441767,1,0
+www.facebook.com:HSTS	0	16964	1481303116106,1,0
+apis.google.com:HSTS	0	16964	1476637239029,1,0
+stats.g.doubleclick.net:HSTS	0	16964	1476637255673,1,1
+syndication.twitter.com:HSTS	0	16964	2096889637084,1,0
+www.youtube.com:HSTS	0	16964	1466355918628,1,0

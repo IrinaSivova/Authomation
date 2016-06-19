@@ -1,0 +1,26 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+t=00099783ms: ** 3: Wait 3 seconds ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00103180ms: ** 3: Wait 3 seconds ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "Find the product" started.	[MsgId: MMSG-16999]
+t=00103754ms: ** 4: Click on Город Выберите город... textbox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00104899ms: ** 4: Click on Город Выберите город... textbox ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00105388ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00108815ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00109330ms: ** 6: Click on Найти button ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00158923ms: Error -205177: ** 6: Click on Найти button ** failed - end event error due to network timeout. Open requests: http://pagead2.googlesyndication.com/activeview?avi=BzAf9vphdV6auEobEyAOD4r_4DAAAAAAQATgByAECwAIC4AIAyAOZBOAEAaAGFA&cid=CAASFORoxcgqbR63vzwFINITTIWiXV8G&id=osdim&ti=1&adk=3825031515&p=2054,152,2304,452&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&mc=0&lte=0&bas=0&bac=0&fp=correlator%3D1058592531422658%26eid%3D108809080%26iu%3D%252F245302316%252FMain_Page_300x250%26oid%3D3%26url%3Dhttp%253A%252F%252Frozetka.com.ua%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1465752000437%26adx%3D152%26ady%3D882%26ifi%3D1%26flash%3D0&r=u&bs=1263,1024&bos=1595,1114&ps=1263,3523&ss=1600,900&tt=9915&pt=2329&deb=1-3-3-38-23-9&tvt=11239&uc=22&tgt=IMG&cl=1; http://pagead2.googlesyndication.com/activeview?avi=Bth7Hv5hdV4abDrS8yAOx_YrIBAAAAAAQATgByAECwAIC4AIAyAOZBOAEAaAGFA&cid=CAASFORoKEhOXcSPcORLu-GZxDLPO05N&id=osdim&ti=1&adk=874204937&p=2054,472,2304,772&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&mc=0&lte=0&bas=0&bac=0&fp=correlator%3D1058592531422658%26eid%3D108809080%26iu%3D%252F245302316%252FMain_Page_300x250%26oid%3D3%26url%3Dhttp%253A%252F%252Frozetka.com.ua%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1465752002068%26adx%3D472%26ady%3D2054%26ifi%3D2%26flash%3D0&r=u&bs=1263,1024&bos=1595,1114&ps=1263,3523&ss=1600,900&tt=9915&pt=2329&deb=1-3-3-38-23-9&tvt=11239&uc=21&tgt=IMG&cl=1; http://pagead2.googlesyndication.com/activeview?avi=Bthrcv5hdV56vJ-y_yAPSkI_gDwAAAAAQATgByAECwAIC4AIAyAOZBOAEAaAGFA&cid=CAASFORoQOrALhrSe_P0siOVNJ0hbKqO&id=osdim&ti=1&adk=2023737216&p=2054,792,2304,1092&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&mc=0&lte=0&bas=0&bac=0&fp=correlator%3D1058592531422658%26eid%3D108809080%26iu%3D%252F245302316%252FMain_Page_300x250%26oid%3D3%26url%3Dhttp%253A%252F%252Frozetka.com.ua%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1465752002816%26adx%3D792%26ady%3D2054%26ifi%3D3%26flash%3D0&r=u&bs=1263,1024&bos=1595,1114&ps=1263,3523&ss=1600,900&tt=9915&pt=2329&deb=1-3-3-38-23-9&tvt=11239&uc=19&tgt=IMG&cl=1;        Snapshot Info [MSH 2 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+t=00228985ms: ** 3: Wait 3 seconds ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00228985ms: ** 3: Wait 3 seconds ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "Find the product" started.	[MsgId: MMSG-16999]
+t=00228989ms: ** 4: Click on Город Выберите город... textbox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00234922ms: ** 4: Click on Город Выберите город... textbox ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00234922ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00234922ms: ** 5: Type iPhone 6 in Город Выберите город... textbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00235452ms: ** 6: Click on Найти button ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00276657ms: Error -205177: ** 6: Click on Найти button ** failed - end event error due to network timeout. Open requests: http://pagead2.googlesyndication.com/activeview?avi=Brl3VO5ldV7PgBdSSZNOMkvAKAAAAABABOAHIAQLAAgLgAgDIA5kE4AQBoAYU&cid=CAASFORoakIMA6-DhF0D4HJ7h-_DMwdc&id=osdim&ti=1&adk=2023737216&p=2054,792,2304,1092&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&mc=0&lte=0&bas=0&bac=0&fp=correlator%3D4136739851634705%26eid%3D108809080%26iu%3D%252F245302316%252FMain_Page_300x250%26oid%3D3%26url%3Dhttp%253A%252F%252Frozetka.com.ua%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1465752126220%26adx%3D792%26ady%3D2054%26ifi%3D3%26flash%3D0&r=u&bs=1263,1024&bos=1595,1114&ps=1263,3523&ss=1600,900&tt=13820&pt=1743&deb=1-3-3-71-23-37&tvt=14930&uc=19&tgt=IMG&cl=1;        Snapshot Info [MSH 4 1]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

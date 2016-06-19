@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Irina" name="com.qatestlab.test.SampleTest" tests="1" failures="0" timestamp="9 Jun 2016 18:09:20 GMT" time="26.348" errors="0">
+  <testcase name="test" time="6.786" classname="com.qatestlab.test.SampleTest"/>
+</testsuite>
